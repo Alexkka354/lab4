@@ -1,0 +1,62 @@
+[
+{
+"name": "Коаксиальная акустическая система EDGE EDBX69M-E3",
+"article": "0000001",
+"stock": 5,
+"price": 4390
+},
+{
+"name": "Межблочный RCA-кабель AURA RCA-A120 MKII 2 метра",
+"article": "0000002",
+"stock": 15,
+"price": 350 
+},
+{
+"name": "Усилитель AurA STORM-D4.120",
+"article": "0000003",
+"stock": 5,
+"price": 13390
+},
+{
+"name": "Сабвуфер Alphard DB-455 NEO",
+"article": "0000004",
+"stock": 1,
+"price": 139990
+},
+{
+"name": "Комплект для шумоизоляции дверей 'Тихие двери' (Шумофф)",
+"article": "0000005",
+"stock": 3,
+"price": 8950
+},
+{
+"name": "Гильза Pulsar E2512 Blue",
+"article": "0000006",
+"stock": 50,
+"price": 10
+},
+{
+"name": "Двухканальный межблочный кабель Alphard APOCALYPSE AP-R1101 (0,92M)",
+"article": "0000007",
+"stock": 3,
+"price": 1590
+},
+{
+"name": "Дистрибьютор Pulsar DB-01",
+"article": "0000008",
+"stock": 6,
+"price": 590
+},
+{
+"name": "Штатная автоакустика AURA INDIGO-6RLC (Lada / Renault)",
+"article": "0000009",
+"stock": 4,
+"price": 6990
+},
+{
+"name": "Сабвуфер DL Audio Gryphon Pro 15 v3",
+"article": "0000010",
+"stock": 2,
+"price": 12990
+}
+]
